@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+
+    <string-array name="actors_images">
+        <item>R.drawable.jacknicholson</item>
+        <item>R.drawable.marlonbrando</item>
+        <item>R.drawable.robert_deniro</item>
+        <item>R.drawable.alpacino</item>
+        <item>R.drawable.danieldaylewis</item>
+        <item>R.drawable.tomhanks</item>
+        <item>R.drawable.anthony</item>
+        <item>R.drawable.laurenceolivier</item>
+        <item>R.drawable.carygrant</item>
+        <item>R.drawable.jamesstewart</item>
+        <item>R.drawable.clinteastwood</item>
+        <item>R.drawable.dustinhoffman</item>
+        <item>R.drawable.paulnewman</item>
+        <item>R.drawable.garyoldman</item>
+        <item>R.drawable.sidneypoitier</item>
+        <item>R.drawable.joaquinephoenix</item>
+        <item>R.drawable.charleschaplin</item>
+        <item>R.drawable.christianbale</item>
+        <item>R.drawable.leonardodicaprio</item>
+        <item>R.drawable.mathewmcconaughey</item>
+        <item>R.drawable.robertdowneyjr</item>
+        <item>R.drawable.bradpitt</item>
+        <item>R.drawable.hughjakman</item>
+        <item>R.drawable.bradleycooper</item>
+        <item>R.drawable.georgeclooney</item>
+        <item>R.drawable.matt_damon</item>
+        <item>R.drawable.markwahlberg</item>
+        <item>R.drawable.michaelfassebender</item>
+        <item>R.drawable.liamneeson</item>
+        <item>R.drawable.denzelwashington</item>
+    </string-array>
+
+    <string-array name="actors_names">
+        <item>jack nicholson</item>
+        <item>marlon brando</item>
+        <item>Robert deniro</item>
+        <item>Al pacino</item>
+        <item>daniel day lewis</item>
+        <item>tom hanks</item>
+        <item>anthony hopkins</item>
+        <item>laurence olivier</item>
+        <item>cary grant</item>
+        <item>james stewart</item>
+        <item>Clint Eastwood</item>
+        <item>Dustin Hoffman</item>
+        <item>Paul Newman</item>
+        <item>Gary Oldman</item>
+        <item>Sidney Poitier</item>
+        <item>Joaquin Phoenix</item>
+        <item>Charles Chaplin</item>
+        <item>Christian Bale</item>
+        <item>Leonardo DiCaprio</item>
+        <item>Matthew McConaughey</item>
+        <item>Robert Downey Jr.</item>
+        <item>Brad Pitt</item>
+        <item>Hugh Jackman</item>
+        <item>Bradley Cooper</item>
+        <item>George Clooney</item>
+        <item>Matt Damon</item>
+        <item>Mark Wahlberg</item>
+        <item>Michael Fassbender</item>
+        <item>Liam Neeson</item>
+        <item>Denzel Washington</item>
+
+    </string-array>
+
+
+    <string-array name="cricketer_images">
+        <item>R.drawable.stuart_broad</item>
+        <item>R.drawable.james_anderson</item>
+        <item>R.drawable.eoin_morgan</item>
+        <item>R.drawable.chris_woakes</item>
+        <item>R.drawable.jos_buttler</item>
+        <item>R.drawable.joe_root</item>
+        <item>R.drawable.ben_stokes</item>
+        <item>R.drawable.jonny_bairstow</item>
+        <item>R.drawable.shikhar_dhawan</item>
+        <item>R.drawable.ravindra_jadeja</item>
+        <item>R.drawable.rohit_sharma</item>
+        <item>R.drawable.cheteshwar_pujara</item>
+        <item>R.drawable.ishant_sharma</item>
+        <item>R.drawable.ajinkya_rahane</item>
+        <item>R.drawable.virat_kohli</item>
+        <item>R.drawable.ravichandran_ashwin</item>
+        <item>R.drawable.adam_zampa</item>
+        <item>R.drawable.aaron_finch</item>
+        <item>R.drawable.josh_hazlewood</item>
+        <item>R.drawable.steven_smith</item>
+        <item>R.drawable.david_warner</item>
+        <item>R.drawable.mitchell_starc</item>
+        <item>R.drawable.glenn_maxwell</item>
+        <item>R.drawable.pat_cummins</item>
+        <item>R.drawable.ross_taylor</item>
+        <item>R.drawable.tim_southee</item>
+        <item>R.drawable.kane_williamson</item>
+        <item>R.drawable.trent_boult</item>
+        <item>R.drawable.martin_guptill</item>
+        <item>R.drawable.dale_steyn</item>
+        <item>R.drawable.david_miller</item>
+        <item>R.drawable.quinton_de_kock</item>
+        <item>R.drawable.faf_du_plessis</item>
+        <item>R.drawable.kagiso_rabada</item>
+        <item>R.drawable.chris_gayle</item>
+        <item>R.drawable.kieron_pollard</item>
+        <item>R.drawable.dwayne_bravo</item>
+        <item>R.drawable.jason_holder</item>
+        <item>R.drawable.lasith_malinga</item>
+        <item>R.drawable.shakib_al_hasan</item>
+    </string-array>
+
+    <string-array name="cricketer_names">
+        <item>Stuart Broad</item>
+        <item>James Anderson</item>
+        <item>Eoin Morgan</item>
+        <item>Chris Woakes</item>
+        <item>Jos Buttler</item>
+        <item>Joe Root</item>
+        <item>Ben Stokes</item>
+        <item>Jonny Bairstow</item>
+        <item>Shikhar Dhawan</item>
+        <item>Ravindra Jadeja</item>
+        <item>Rohit Sharma</item>
+        <item>Cheteshwar Pujara</item>
+        <item>Ishant Sharma</item>
+        <item>Ajinkya Rahane</item>
+        <item>Virat Kohli</item>
+        <item>Ravichandran Ashwin</item>
+        <item>Adam Zampa</item>
+        <item>Aaron Finch</item>
+        <item>Josh Hazelwood</item>
+        <item>Steven Smith</item>
+        <item>David Warner</item>
+        <item>Mitchell Starc</item>
+        <item>Glenn Maxwell</item>
+        <item>Pat Cummins</item>
+        <item>Ross Taylor</item>
+        <item>Tim Southee</item>
+        <item>Kane Williamson</item>
+        <item>Trent Boult</item>
+        <item>Martin Guptill</item>
+        <item>Dale Steyn</item>
+        <item>David Miller</item>
+        <item>Quinton De Kock</item>
+        <item>Faf Du Plessis</item>
+        <item>Kagiso Rabada</item>
+        <item>Chris Gayle</item>
+        <item>Kieron Pollard</item>
+        <item>Dwayne Bravo</item>
+        <item>Jason Holder</item>
+        <item>Lasith Malinga</item>
+        <item>Shakib Al Hasan</item>
+    </string-array>
+
+
+    <string-array name="logo_images">
+        <item>R.drawable.snapchat</item>
+        <item>R.drawable.tesla</item>
+        <item>R.drawable.mercedes</item>
+        <item>R.drawable.audi</item>
+        <item>R.drawable.pringles</item>
+        <item>R.drawable.john_deere</item>
+        <item>R.drawable.pepsi</item>
+        <item>R.drawable.at_and_t</item>
+        <item>R.drawable.warner_bros</item>
+        <item>R.drawable.walmart</item>
+        <item>R.drawable.unilever</item>
+        <item>R.drawable.chanel</item>
+        <item>R.drawable.wikipedia</item>
+        <item>R.drawable.general_electric</item>
+        <item>R.drawable.wwf</item>
+        <item>R.drawable.rolex</item>
+        <item>R.drawable.toyota</item>
+        <item>R.drawable.volkswagon</item>
+        <item>R.drawable.toblerone</item>
+        <item>R.drawable.nike</item>
+        <item>R.drawable.spotify</item>
+        <item>R.drawable.redbull</item>
+        <item>R.drawable.star_bucks</item>
+        <item>R.drawable.mastercard</item>
+        <item>R.drawable.playboy</item>
+        <item>R.drawable.baskin_robbins</item>
+        <item>R.drawable.louis_vuitton</item>
+        <item>R.drawable.safeway</item>
+        <item>R.drawable.unicef</item>
+        <item>R.drawable.adidas</item>
+    </string-array>
+
+
+    <string-array name="logo_names">
+        <item>SnapChat</item>
+        <item>Tesla</item>
+        <item>Mercedes</item>
+        <item>Audi</item>
+        <item>Pringles</item>
+        <item>John Deere</item>
+        <item>Pepsi</item>
+        <item>AT And T</item>
+        <item>Warner Bros</item>
+        <item>Walmart</item>
+        <item>Unilever</item>
+        <item>Chanel</item>
+        <item>Wikipedia</item>
+        <item>General Electric</item>
+        <item>WWF</item>
+        <item>Rolex</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Toblerone</item>
+        <item>Nike</item>
+        <item>Spotify</item>
+        <item>Redbull</item>
+        <item>Star Bucks</item>
+        <item>Master Card</item>
+        <item>Playboy</item>
+        <item>Baskin Robbins</item>
+        <item>Louis Vuitton</item>
+        <item>Safeway</item>
+        <item>Unicef</item>
+        <item>Adidas</item>
+    </string-array>
+
+</resources>
